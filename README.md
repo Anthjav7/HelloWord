@@ -1,10 +1,11 @@
 # HelloWorld
 
 ## Descripción
-Este proyecto es una aplicación de consola creada con C# y .NET.
-Su función es mostrar el mensaje "Hello, World!" en la pantalla.
+
+Este proyecto es una aplicación de consola creada con C# y .NET. Su función es mostrar el mensaje "Hello, World!" en la pantalla.
 
 ## Requisitos
+
 - .NET SDK 10.0 o superior
 - Visual Studio Code
 
@@ -15,8 +16,13 @@ Su función es mostrar el mensaje "Hello, World!" en la pantalla.
 3. Ejecuta este comando:
 
 ```bash
-dotnet run --project "src/HelloWorld" ```markdown
+dotnet run --project "src/HelloWorld"
+```
 ## Resultado esperado
 
 ```text
 Hello, World!
+```
+## Autor
+
+Anthjav7
