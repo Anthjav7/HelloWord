@@ -15,4 +15,8 @@ Su función es mostrar el mensaje "Hello, World!" en la pantalla.
 3. Ejecuta este comando:
 
 ```bash
-dotnet run --project "src/HelloWorld"
+dotnet run --project "src/HelloWorld" ```markdown
+## Resultado esperado
+
+```text
+Hello, World!
